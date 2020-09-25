@@ -908,3 +908,9 @@
 0.0.0.0	spring-chicken-bl.twitter.com
 0.0.0.0	fonts.twitter.com
 0.0.0.0	upload-28-0-0.twitter.com
+0.0.0.0	cdn.twitter-static.com
+0.0.0.0	twitter-static.com
+0.0.0.0	mail.twitter-static.com
+0.0.0.0	static.twitter-static.com
+0.0.0.0	www.twitter-static.com
+0.0.0.0	assets.twitter-static.com
