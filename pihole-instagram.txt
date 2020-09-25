@@ -4890,3 +4890,7 @@
 0.0.0.0	instagram.fjoi3-1.fna.fbcdn.net
 0.0.0.0	instagram.fbzv2-1.fna.fbcdn.net
 0.0.0.0	instagram.fbnu1-1.fna.fbcdn.net
+0.0.0.0	z-p15-instagram.c10r.facebook.com
+0.0.0.0	z-p4-instagram.c10r.facebook.com
+0.0.0.0	z-p42-instagram.c10r.facebook.com
+0.0.0.0	instagram.c10r.facebook.com
